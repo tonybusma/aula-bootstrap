@@ -1,0 +1,59 @@
+.navbar{
+    background-color: #249928;
+}
+
+.quemsomos {
+    background-color: thistle;
+    
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.titulo1{
+    margin-bottom: 30px;
+    font-family: Arial Black;
+}
+
+.texto1 {
+    font-family: Arial;
+    margin-top: 30px;
+}
+
+.parceiros {
+    background-color: cyan;
+
+}
+
+.titulo2{
+    margin-bottom: 20px;
+    font-family: Arial Black;
+}
+
+.texto2 {
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+.texto-base {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.titulo3{
+    margin-bottom: 20px;
+    font-family: Arial Black;
+}
+
+.servicos {
+    background-color: #88f5b2;
+}
+
+.rodape{
+    background-color: black;
+    color: white;
+    }
+.contato img {
+    margin-bottom: 30px;
+}
